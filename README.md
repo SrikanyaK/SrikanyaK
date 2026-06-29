@@ -1,4 +1,4 @@
-# Hi, I'm Srikanya Katikala
+# Hi, I'm Srikanya K
 
 Senior Embedded Software Engineer from Hyderabad with 10 years of experience in embedded systems, focused on Linux kernel development, device drivers, embedded middleware software, and interface applications.
 
